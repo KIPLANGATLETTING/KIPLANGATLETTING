@@ -1,3 +1,19 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+COLLINS+KIPLANGAT+LETTING👋;I'm+a+passionate+Web+Developer;Interested+in+networking+and+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+
+<h1 align="center">COLLINS KIPLANGAT LETTING</h1>
+<h3 align="center">A passionate full-stack developer from Nairobi, Kenya</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=KIPLANGATLETTING&label=Profile%20views&color=0e75b6&style=flat" alt="KIPLANGATLETTING" />
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/COLLINS_LETTING" target="blank">
+    <img src="https://img.shields.io/twitter/follow/COLLINS_LETTING?logo=twitter&style=for-the-badge" alt="COLLINS_LETTING" />
+  </a>
+</p>
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/COLLINSKIPLANGATLETTING) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/COLLINSLETTING) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LETTINGCOLLINS) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/CKIPLANGAT) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@COLLOHKE_745) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KIPLANGATLETTING) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ckiplangat49@gmail.com) 
